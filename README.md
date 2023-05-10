@@ -20,4 +20,4 @@ For my app I used (as it was the challenge) I used Swift Playgrounds for iPad wi
 
 ## Reach out to me
 
-![https://twitter.com/timo_e002](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+https://twitter.com/timo_e002
